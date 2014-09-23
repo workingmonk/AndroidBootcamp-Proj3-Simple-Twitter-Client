@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/workmonk/AndroidStudioProjects/SimpleTwitterClient/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.3.0-c66e23f3fad074217f9ad25a13e49a6ef277ee82.jar"
+        jar="/Users/workmonk/AndroidStudioProjects/SimpleTwitterClient/app/libs/codepath-oauth-0.3.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b90f1c3541987f690e2fb854775914cc23266250"/>
+    <item
+        dex="/Users/workmonk/AndroidStudioProjects/SimpleTwitterClient/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.3-61d4612689192556c3645744e93c1b8a9c3ae69a.jar"
+        jar="/Users/workmonk/AndroidStudioProjects/SimpleTwitterClient/app/libs/android-async-http-1.4.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f70e680861fdf9449819003e7799a4e9aca047f8"/>
+    <item
+        dex="/Users/workmonk/AndroidStudioProjects/SimpleTwitterClient/app/build/intermediates/pre-dexed/debug/codepath-utils-7e2d5ce9789928d0d4c290964a20c274b6774abe.jar"
+        jar="/Users/workmonk/AndroidStudioProjects/SimpleTwitterClient/app/libs/codepath-utils.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="10901a5ef726eacf1b2443b7f38dc4cc9cd3f7d4"/>
+    <item
+        dex="/Users/workmonk/AndroidStudioProjects/SimpleTwitterClient/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.8.4-b978db23913ec438d5d27e0e81b51d6c0fa7df1d.jar"
+        jar="/Users/workmonk/AndroidStudioProjects/SimpleTwitterClient/app/libs/universal-image-loader-1.8.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="eee81e43531ce82db1781c5a8b27781ca384eede"/>
+    <item
+        dex="/Users/workmonk/AndroidStudioProjects/SimpleTwitterClient/app/build/intermediates/pre-dexed/debug/android-support-v4-32e4333306cce70395535e6b226cbbbff3416673.jar"
+        jar="/Users/workmonk/AndroidStudioProjects/SimpleTwitterClient/app/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="bd6479f5dd592790607e0504e66e0f31c2b4d308"/>
+    <item
+        dex="/Users/workmonk/AndroidStudioProjects/SimpleTwitterClient/app/build/intermediates/pre-dexed/debug/scribe-codepath-18c3e664c4787c002f064df3dfb8856e69d745a2.jar"
+        jar="/Users/workmonk/AndroidStudioProjects/SimpleTwitterClient/app/libs/scribe-codepath.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6e0748acc9e7be0695de0d38016d260df52d9167"/>
+    <item
+        dex="/Users/workmonk/AndroidStudioProjects/SimpleTwitterClient/app/build/intermediates/pre-dexed/debug/ActiveAndroid-3.1-adcddac4c58-11f67ba797e6249cf2a102cb3a78d383b0a660d4.jar"
+        jar="/Users/workmonk/AndroidStudioProjects/SimpleTwitterClient/app/libs/ActiveAndroid-3.1-adcddac4c58.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e550c03ed8bcfe3b9f97d8c5ce6e8ee305f3beed"/>
+
+</pre-dex-items>
