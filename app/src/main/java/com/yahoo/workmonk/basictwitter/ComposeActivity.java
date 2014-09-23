@@ -60,7 +60,7 @@ public class ComposeActivity extends Activity {
         });
     }
 
-    public void sendTweet(View v){
+    public void onDoneTweet(MenuItem mi){
         String tweetStr = etNewTweet.getText().toString();
         client.sendTweet(tweetStr, new JsonHttpResponseHandler(){
             @Override

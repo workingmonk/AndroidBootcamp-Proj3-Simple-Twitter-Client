@@ -70,9 +70,11 @@ public class TweetArrayAdapter extends ArrayAdapter<Tweet>{
         }
         relativeDate = relativeDate.replace(" minutes", "m");
         relativeDate = relativeDate.replace(" minute", "m");
-        relativeDate = relativeDate.replace(" seconds", "s");
-        relativeDate = relativeDate.replace(" second", "s");
         relativeDate = relativeDate.replace(" ago", "");
+        if(relativeDate.contains("second")){
+            relativeDate = "Now";
+        }
+
         return relativeDate;
     }
 

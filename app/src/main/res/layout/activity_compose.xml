@@ -21,7 +21,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/user_name_label"
+        android:text="\@userid"
         android:paddingStart="5sp"
         android:paddingLeft="5sp"
         android:id="@+id/tvScreenName"
@@ -30,7 +30,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/body_label"
+        android:text="Name"
         android:paddingStart="5sp"
         android:paddingLeft="5sp"
         android:id="@+id/tvUserNameCompose"
@@ -49,12 +49,4 @@
         android:layout_alignParentEnd="true"
         android:hint="@string/new_tweet_label" />
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Tweet"
-        android:id="@+id/btnSendTweet"
-        android:onClick="sendTweet"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true" />
 </RelativeLayout>

@@ -44,7 +44,7 @@ public class TimelineActivity extends Activity {
         });
     }
 
-    public void startCompose(MenuItem mi){
+    public void onAddNewTweet(MenuItem mi){
         Intent i = new Intent(this, ComposeActivity.class);
         startActivity(i);
     }
